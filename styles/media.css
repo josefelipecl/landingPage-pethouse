@@ -6,9 +6,9 @@
     margin: 25px;
   }
   #sign-in-button {
+    text-decoration: none;
     border: none;
-    padding: 0px;
-    color: rgb(132, 14, 201);
+    padding: 0;
   }
   main {
     flex-direction: column;
@@ -28,7 +28,7 @@
 img {
   width: 100px;
 }
-ul{
+nav{
   text-align: center;
 }
 
