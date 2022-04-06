@@ -5,6 +5,11 @@
   a {
     margin: 25px;
   }
+  #sign-in-button {
+    border: none;
+    padding: 0px;
+    color: rgb(132, 14, 201);
+  }
   main {
     flex-direction: column;
   }
