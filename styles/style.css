@@ -58,8 +58,10 @@
   font-style: normal;
 
 }
-
-body {
+body{
+  background-color: black;
+}
+/* body {
   background-image: radial-gradient(#FDDD02, #B28202, #B26001);
   color: white;
   font-family: 'poppinsregular';
@@ -67,7 +69,7 @@ body {
   margin: 0 auto;
   padding: 25px;
 
-}
+} */
 
 header {
   display: flex;
