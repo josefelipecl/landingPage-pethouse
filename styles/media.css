@@ -2,6 +2,9 @@
   header {
     flex-direction: column;
   }
+  a {
+    margin: 25px;
+  }
   main {
     flex-direction: column;
   }
